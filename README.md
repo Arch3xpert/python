@@ -21,5 +21,11 @@ It was created by Guido Van Rossum and first released it in 1991 as python 0.9.0
 - It is used in Data Analysis / Visualization .
 
 # How to Install Python ?
+<br> Before Installing python let me tell you about Replit 
+Why Replit ?
+- Replit is very easy to share tutorials and code
+- video, code as well as text tutorials on the same page which makes things easy. <br>
+
 Python is an open source software which may easily be installed by visiting the link : <br>
 <center>https://www.python.org </center>
+
