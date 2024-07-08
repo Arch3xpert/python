@@ -19,3 +19,7 @@ It was created by Guido Van Rossum and first released it in 1991 as python 0.9.0
 - Python is widely used in AI and Machine Learning projects.
 - It is used in business and accounting to perform complex mathematical operations along with quantitative and qualitative analysis.
 - It is used in Data Analysis / Visualization .
+
+# How to Install Python ?
+Python is an open source software which may easily be installed by visiting the link : <br>
+<center>https://www.python.org </center>
